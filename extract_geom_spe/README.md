@@ -50,18 +50,4 @@ Edit these variables at the top of the script before running:
 
 H, B, C, N, O, F, P, S, Cl, Fe, Co, Ni, Cu, Zn, Br, I
 
-## Author
 
-**Marwa Al Rammal**  
-Computational Chemist   
-GitHub: [@marwaalrammal](https://github.com/marwaalrammal)
-
-## Citation
-
-If you use this tool in your research, please cite:
-
-> Al Rammal, M. (2026). gaussian-geom-extractor. Zenodo. 
-
-## License
-
-MIT License — see [LICENSE](LICENSE) for details.
