@@ -47,7 +47,6 @@ H, B, C, N, O, F, P, S, Cl, Fe, Co, Ni, Cu, Zn, Br, I
 ## Author
 **Marwa Al Rammal**  
 Computational Chemist  
-ORCID: [0000-0001-8607-8420](https://orcid.org/0000-0001-8607-8420)  
 GitHub: [@marwaalrammal](https://github.com/marwaalrammal)
 
 ## Citation
