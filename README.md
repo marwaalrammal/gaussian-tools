@@ -19,7 +19,7 @@ Generates a series of Gaussian input files from a template by substituting
 checkpoint file names across a numbered range.
 
 ## Requirements
-- Python 3.6+
+- Python 3+
 - No external libraries needed
 
 ## Author
