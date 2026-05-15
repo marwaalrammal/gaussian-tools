@@ -1,8 +1,7 @@
 cff-version: 1.2.0
 title: "gaussian-tools"
 abstract: "Python utilities for computational chemists working with Gaussian 
-  quantum chemistry calculations. Includes tools for geometry extraction, 
-  TD-DFT root tracking, and batch GJF generation."
+  quantum chemistry calculations."
 authors:
   - family-names: "Al Rammal"
     given-names: "Marwa"
