@@ -40,7 +40,7 @@ GitHub: [@marwaalrammal](https://github.com/marwaalrammal)
 
 ## Citation
 If you use any of these tools in your research, please cite:
-> Al Rammal, Marwa (2026). gaussian-tools. Zenodo. https://doi.org/10.5281/zenodo.20275969
+> Al Rammal, Marwa (2026). gaussian-tools. Zenodo. https://doi.org/10.5281/zenodo.20276209
 
 ## License
 BSD 2-Clause License — see [LICENSE](LICENSE) for details.
