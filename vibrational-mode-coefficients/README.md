@@ -133,4 +133,4 @@ Reference: https://github.com/leeping/forcebalance
 
 ## Citation
 If you use this workflow in your research, please cite:
-> Al Rammal, Marwa (2026). gaussian-tools. Zenodo. https://doi.org/10.5281/zenodo.20213932
+> Al Rammal, Marwa (2026). gaussian-tools. Zenodo. [https://doi.org/10.5281/zenodo.20213932](https://doi.org/10.5281/zenodo.20276209)
