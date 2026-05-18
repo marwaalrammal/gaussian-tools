@@ -1,15 +1,17 @@
 cff-version: 1.2.0
 title: "gaussian-tools"
 abstract: "Python utilities for computational chemists working with Gaussian 
-  quantum chemistry calculations."
+  quantum chemistry calculations. Includes tools for geometry extraction, 
+  TD-DFT root tracking, batch GJF generation, and vibrational mode 
+  coefficient decomposition."
 authors:
   - family-names: "Al Rammal"
     given-names: "Marwa"
     orcid: "https://orcid.org/0000-0001-8607-8420"
-version: 1.0.0
-date-released: 2026-05-15
-doi: 10.5281/zenodo.20213932
-license: MIT
+version: 1.3.0
+date-released: 2026-05-18
+doi: 10.5281/zenodo.20275969
+license: BSD-2-Clause
 repository-code: "https://github.com/marwaalrammal/gaussian-tools"
 keywords:
   - gaussian
@@ -18,3 +20,5 @@ keywords:
   - python
   - geometry-optimization
   - td-dft
+  - vibrational-modes
+  - normal-mode-analysis
