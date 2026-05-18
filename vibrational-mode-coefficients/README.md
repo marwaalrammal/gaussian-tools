@@ -30,9 +30,11 @@ python align_kabsch.py 2.xyz 1.xyz
 ```
 **Output:** `shifted.2.xyz` — excited state geometry aligned onto GS frame
 
-> ⚠️ `align_kabsch.py` is a third-party script written by Grace (2019),
-> based on code by Dr. L.P. Wang (UC Davis).
-> Original reference: https://github.com/leeping/forcebalance
+> ⚠️ align_kabsch.py is NOT authored by Marwa Al Rammal.
+> Original author: Grace (2019), based on code by Dr. L.P. Wang, UC Davis.
+> Distributed under BSD 3-Clause License.
+> Source: https://github.com/leeping/forcebalance
+> See THIRD_PARTY_LICENSES.md for full license text.
 
 ---
 
