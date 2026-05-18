@@ -1,4 +1,8 @@
 #Marwa Al Rammal created 15 May 2026
+#   Citation:                                                                                   
+#   If you use this script in your research, please cite:                                       
+#   Al Rammal, Marwa (2026). gaussian-tools. Zenodo.                                           
+#   https://doi.org/10.5281/zenodo.20275969                                                    
 #!/usr/bin/env python3
 """
 extract_geom_spe.py
