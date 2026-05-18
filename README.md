@@ -43,4 +43,4 @@ If you use any of these tools in your research, please cite:
 > Al Rammal, Marwa (2026). gaussian-tools. Zenodo. https://doi.org/10.5281/zenodo.20275969
 
 ## License
-MIT License — see [LICENSE](LICENSE) for details.
+BSD 2-Clause License — see [LICENSE](LICENSE) for details.
